@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @gabriel-f1
-- 👀 I’m interested in f1
-- 🌱 I’m currently learning JavaScript
+- - 👀 I’m interested in f1
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking into the never ending abyss
 - 📫 How to reach me (you dont)
-- 😄 Pronouns: ?
+- 😄 Pronouns: idk what that means
 - ⚡ Fun fact: i am mentally ill
 
 <!---
